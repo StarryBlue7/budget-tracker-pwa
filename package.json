@@ -6,7 +6,6 @@
   "scripts": {
     "webpack": "webpack",
     "start": "node server.js",
-    "prestart": "npm run webpack",
     "lite-server": "lite-server"
   },
   "repository": {
