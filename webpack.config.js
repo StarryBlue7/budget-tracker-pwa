@@ -6,7 +6,8 @@ const config = {
   entry: "/public/index.js",
   output: {
     path: __dirname + "/public/dist",
-    filename: "bundle.js"
+    filename: "bundle.js",
+    publicPath: "/dist",
   },
   plugins: [
     new WebpackPwaManifest({
