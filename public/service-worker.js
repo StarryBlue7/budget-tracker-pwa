@@ -3,6 +3,7 @@ const FILES_TO_CACHE = [
     "/dist/manifest.json",
     "./db.js",
     "./index.js",
+    "./index.html",
     "/dist/assets/icons/icon_192x192.png",
     "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
     "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
