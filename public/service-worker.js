@@ -1,7 +1,10 @@
 const FILES_TO_CACHE = [
     "/",
     "/dist/manifest.json",
-    "/dist/bundle.js",
+    "/db.js",
+    "/index.js",
+    "/dist/db.bundle.js",
+    "/dist/index.bundle.js",
     "/dist/assets/icons/icon_192x192.png",
     "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
     "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
